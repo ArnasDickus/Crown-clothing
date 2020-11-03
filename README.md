@@ -1,3 +1,5 @@
+Clothing shop build with Angular
+[Live version](https://arnas-crown-live.herokuapp.com/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
